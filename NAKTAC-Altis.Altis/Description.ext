@@ -76,10 +76,6 @@ class CfgFunctions
 	#include "CHVD\CfgFunctions.hpp"
 };
 
-//class CfgRespawnInventory
-//{
-//  #include "roles.hpp"
-//};
 
 //---------------------------ACE3 --------------------------
 class ACE_Settings {
